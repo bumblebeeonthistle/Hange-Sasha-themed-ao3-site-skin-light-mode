@@ -341,7 +341,7 @@ dl.meta {
   margin-bottom: 3em;
 }
 
-/* Kudos section styling = erwin smith*/
+/* Kudos section styling */
 p.kudos {
   padding-left: 8.3em;
   background: url("https://i.ibb.co/rSRFzYY/manga-sasha.png");
@@ -359,7 +359,7 @@ p.kudos {
   background: url("https://i.ibb.co/Jw8YFVTv/Sasha-and-Hange-2.png");
   background-size: contain;
   background-position-x: right;
-  background-position-y: center;
+  background-position-y: bottom;
   background-repeat: no-repeat;
 }
 
